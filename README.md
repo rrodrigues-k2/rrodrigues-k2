@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Rennan Rodrigues, a Frontend Developer. 🚀 </h1>
 
-<!--
-**rrodrigues-k2/rrodrigues-k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **K2 Partnering Group**.
+- 💬 Ask me about **AngularJS, Angular**
+- 📫 How to reach me **rennan.martini.external@k2partnering.com**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="left">Languages and Tools:</h4> 
+<p align="left">
+<img align="left" title="HTML5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" height="30" width="40" />
+<img align="left" title="CSS3" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" height="30" width="40" />
+<img align="left" title="JavaScript" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" height="30" width="40" />
+<img align="left" title="TypeScript" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/typescript.svg" height="30" width="40" />
+<img align="left" title="Sass" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/sass.svg" height="30" width="40" />
+<img align="left" title="Angular" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/angularjs.svg" height="30" width="40" />
+<img align="left" title="Karma" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Testing/karma.svg" height="30" width="40" />
+</p>
